@@ -13,7 +13,7 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://www.linkedin.com/in/www.linkedin.com/in/emanuelfun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="44" style="margin-right: 8px"></a></p>
+<p align="center"><a href="www.linkedin.com/in/emanuelfun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="44" style="margin-right: 8px"></a></p>
 
  **<h3 align="center">Hello, I am a Full Stack Web Developer and currently a Computer Science student. I have experience working as Front-end for an international consultancy, where I have developed skills in React, TS, Next. In addition to my Front-end skills, I have solid knowledge in Back-end, including Node.js, Python, SQL and NoSQL databases I am looking for an opportunity to apply and expand my Full Stack skills, contributing innovative solutions to your team</h3>**
 
